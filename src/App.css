@@ -6,7 +6,15 @@ img {
   text-align: center;
 }
 
-
+.section {
+  border-width: 5px;
+  border-color: pink;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 16px;
+  background-image: url("./background.png");
+}
 
 .App-header {
   background-color: #282c34;
